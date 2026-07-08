@@ -1,4 +1,4 @@
-# AI Placement & Student Career OS
+# Life OS
 
 A web app that helps students track placement, internship, and graduate job applications in one place.
 
